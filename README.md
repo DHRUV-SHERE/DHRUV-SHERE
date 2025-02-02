@@ -1,43 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h1>👋 Hi, I'm Dhruv Shere</h1>
-    <p>
-        A passionate Web Developer and IT student with expertise in frontend and backend development. Skilled in React, Node.js, and Django, I enjoy building innovative and impactful solutions.
-    </p>
-    <h2>💡 Skills</h2>
-    <div class="skills-container" style="oblect-fit:"cover">
-        <img src="https://github.com/user-attachments/assets/21748e62-b733-4e5a-9bac-32dd706cef30" alt="Skill 1" width="150" height="auto" style="oblect-fit:"cover">
-        <img src="https://github.com/user-attachments/assets/df643782-3c5e-4af9-b84d-a0172bbc1f5e" alt="Skill 2" width="150" height="auto" style="oblect-fit:"cover">
-        <img src="https://github.com/user-attachments/assets/5a25deb8-aa42-4872-9260-42141e1b1ab2" alt="Skill 3" width="150" height="auto" style="oblect-fit:"cover">
-        <img src="https://github.com/user-attachments/assets/0ac74932-18f2-4dbb-af62-2d82141285f0" alt="Skill 4" width="150" height="auto" style="oblect-fit:"cover">
-        <img src="https://github.com/user-attachments/assets/1128226a-ccd2-4fd4-ab75-2dc839164385" alt="Skill 5" width="150" height="auto" style="oblect-fit:"cover">
-        <img src="https://github.com/user-attachments/assets/15b02eb0-33b5-4138-bfc6-80867f002314" alt="Skill 6" width="150" height="auto" style="oblect-fit:"cover">
-        <img src="https://github.com/user-attachments/assets/5f15377c-5ccd-4268-a172-541634dd8726" alt="Skill 7" width="150" height="auto" style="oblect-fit:"cover">
-        <img src="https://github.com/user-attachments/assets/b3484794-eb80-4ae2-981d-1f4bfa8a6e60" alt="Skill 8" width="150" height="auto" style="oblect-fit:"cover">
-        <img src="https://github.com/user-attachments/assets/ff0cb92b-6bff-4025-b44e-118143711c97" alt="Skill 9" width="150" height="auto" style="oblect-fit:"cover">
-        <img src="https://github.com/user-attachments/assets/a3edce65-13b1-4491-b3ed-a6b4de33d566" alt="Skill 10" width="150" height="auto" style="oblect-fit:"cover">
-        <img src="https://github.com/user-attachments/assets/5b8bc0b5-9303-4595-b7d4-976ceb107105" alt="Skill 11" width="150" height="auto" style="oblect-fit:"cover">
-    </div>
-    <h2>📂 Notable Projects</h2>
-    <ul>
-        <li><b>Rate IT:</b> Customer review website | <i>HTML, CSS, JS, Java, MySQL</i></li>
-        <li><b>Hindu Vidhyapith:</b> Hindu scriptures platform | <i>React, Tailwind, Node.js, PostgreSQL</i></li>
-        <li><b>AgroSense:</b> Agricultural platform | <i>React, Bootstrap, Node.js, MongoDB</i></li>
-    </ul>
-    <h2>🔗 Connect with Me</h2>
-    <p>
-        📌 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/dhruv-shere/" target="_blank">linkedin.com/in/dhruv-shere</a><br>
-        📌 <b>GitHub:</b> <a href="https://github.com/YOUR_GITHUB" target="_blank">github.com/YOUR_GITHUB</a>
-    </p>
-    <h2>🚀 Let's Build Something Amazing!</h2>
-    <p>Always open to collaborating on exciting projects and learning new technologies.</p>
-    <footer>
-        <p><b>Created with ❤️ by Dhruv Shere</b></p>
-    </footer>
-</body>
-</html>
+# 💫 About Me:
+Passionate Web Developer with expertise in frontend and backend technologies like React, Node.js, and Django. Skilled in crafting user-friendly interfaces and optimizing backend performance. Enthusiastic about problem-solving and developing innovative solutions.
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/DHRUV) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sheredhruv/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dhruv-shere) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sheredhruv@gmail.com) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DHRUV-SHERE&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DHRUV-SHERE&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUV-SHERE&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DHRUV-SHERE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=DHRUV-SHERE&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=DHRUV-SHERE&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
