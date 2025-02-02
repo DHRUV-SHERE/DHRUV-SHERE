@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dhruv Shere | GitHub Profile</title>
-</head>
-<body>
-    <img src="YOUR_IMAGE_URL" alt="Dhruv Shere" width="150" height="auto">
-    
-    👋 Hi, I'm Dhruv Shere
+<h1>👋 Hi, I'm Dhruv Shere</h1>
     <p>
         A passionate Web Developer and IT student with expertise in frontend and backend development. Skilled in React, Node.js, and Django, I enjoy building innovative and impactful solutions.
     </p>
@@ -41,5 +31,3 @@
     <footer>
         <p><b>Created with ❤️ by Dhruv Shere</b></p>
     </footer>
-</body>
-</html>
