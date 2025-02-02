@@ -6,9 +6,9 @@
     <title>Dhruv Shere | GitHub Profile</title>
 </head>
 <body>
-<!--     <img src="YOUR_IMAGE_URL" alt="Dhruv Shere" width="150" height="auto"> -->
+    <img src="YOUR_IMAGE_URL" alt="Dhruv Shere" width="150" height="auto">
     
-    <h1> 👋 Hi, I'm Dhruv Shere</h1>
+    👋 Hi, I'm Dhruv Shere
     <p>
         A passionate Web Developer and IT student with expertise in frontend and backend development. Skilled in React, Node.js, and Django, I enjoy building innovative and impactful solutions.
     </p>
@@ -31,13 +31,15 @@
     
     <h2>🔗 Connect with Me</h2>
     <p>
-        📌 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/dhruv-shere/" target="_blank">linkedin.com/in/dhruv-shere</a> <br>
+        📌 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/dhruv-shere/" target="_blank">linkedin.com/in/dhruv-shere</a><br>
         📌 <b>GitHub:</b> <a href="https://github.com/YOUR_GITHUB" target="_blank">github.com/YOUR_GITHUB</a>
     </p>
     
     <h2>🚀 Let's Build Something Amazing!</h2>
     <p>Always open to collaborating on exciting projects and learning new technologies.</p>
     
-    <p><h3>Created with ❤️ by Dhruv Shere</h3></p>
+    <footer>
+        <p><b>Created with ❤️ by Dhruv Shere</b></p>
+    </footer>
 </body>
 </html>
