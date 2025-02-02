@@ -21,7 +21,7 @@
     <h2>🔗 Connect with Me</h2>
     <p>
         📌 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/dhruv-shere/" target="_blank">linkedin.com/in/dhruv-shere</a><br>
-        📌 <b>GitHub:</b> <a href="https://github.com/YOUR_GITHUB" target="_blank">github.com/YOUR_GITHUB</a>
+        📌 <b>GitHub:</b> <a href="https://github.com/DHRUV-SHERE" target="_blank">github.com/DHRUV-SHERE</a>
     </p>
     <h2>🚀 Let's Build Something Amazing!</h2>
     <p>Always open to collaborating on exciting projects and learning new technologies.</p>
