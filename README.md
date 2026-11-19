@@ -51,9 +51,13 @@ I enjoy working across the entire development lifecycle — from designing inter
 </p>
 
 ### Mobile, Cloud & Development Tools
-<p>
-<img src="https://skillicons.dev/icons?i=reactnative,expo,firebase,gcp,vercel,git,github,postman,docker" />
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,gcp,vercel,git,github,postman,docker&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</div>
+
 
 ### AI & Integrations
 
