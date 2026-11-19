@@ -1,24 +1,180 @@
-# 💫 About Me:
-Passionate Web Developer with expertise in frontend and backend technologies like React, Node.js, and Django. Skilled in crafting user-friendly interfaces and optimizing backend performance. Enthusiastic about problem-solving and developing innovative solutions.
+<!-- ================= HEADER ================= -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sheredhruv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-shere) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sheredhruv@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:211951,50:4F46E5,100:A7F515&height=200&section=header&text=Dhruv%20Shere&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=17&descAlignY=55" width="100%" />
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=DHRUV-SHERE&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUV-SHERE&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A7F515&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Developing+AI-Powered+Products;Full+Stack+%26+Mobile+Development;Turning+Ideas+Into+Production+Software" alt="Typing SVG" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DHRUV-SHERE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p>
+  <a href="https://portfolio-dhruvshere.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-A7F515?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/dhruv-shere"><img src="https://img.shields.io/badge/LinkedIn-211951?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/DHRUV-SHERE"><img src="https://img.shields.io/badge/GitHub-211951?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:sheredhruv@gmail.com"><img src="https://img.shields.io/badge/Email-A7F515?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DHRUV-SHERE&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DHRUV-SHERE&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
-![](https://github-readme-stats.vercel.app/api?username=DHRUV-SHERE&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+<!-- ================= ABOUT ================= -->
+
+## 👨‍💻 About Me
+
+I'm **Dhruv Shere**, a Software Engineer at **Lumos Logic India LLP**, passionate about building scalable software products, enterprise SaaS platforms, and AI-powered applications.
+
+I enjoy working across the entire development lifecycle — from designing interfaces and architecting backend systems to integrating AI services and deploying production applications.
+
+- 💼 Software Engineer at Lumos Logic India LLP
+- 🚀 Building SaaS, HRTech, Recruitment Tech & AI-powered products
+- 💻 Full Stack & Mobile Application Development
+- 🤖 Exploring LLMs, AI integrations & intelligent automation
+- ☁️ Experienced in cloud infrastructure and production deployments
+- 🎯 Focused on turning complex ideas into practical solutions
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+## ⚡ Tech Stack & Tools
+
+### Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap" />
+</p>
+
+### Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mongodb,postgres,mysql" />
+</p>
+
+### Mobile, Cloud & Development Tools
+<p>
+<img src="https://skillicons.dev/icons?i=reactnative,expo,firebase,gcp,vercel,git,github,postman,docker" />
+</p>
+
+### AI & Integrations
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Recall_AI-635BFF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-211951?style=for-the-badge&logoColor=white" />
+</p>
+
+---
+
+<!-- ================= FEATURED PROJECTS ================= -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 HRMS – Lumos Logic
+
+Enterprise Human Resource Management System with attendance, payroll, onboarding, offboarding, biometric integration and employee management.
+
+**Tech:** React, React Native, Node.js, PostgreSQL
+
+<a href="https://hrms.lumoslogic.com/">🌐 Web Application</a> · <a href="https://play.google.com/store/apps/details?id=com.lumoslogic.hrms">📱 Mobile App</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 RecruitX Ecosystem
+
+AI-powered recruitment ecosystem featuring automated interviews, voice AI, candidate evaluation and recruitment pipeline management.
+
+**Tech:** Next.js, Python, Convex, AI APIs
+
+<a href="https://meet.recruitx-ai.com/">Meet</a> · <a href="https://crm.recruitx-ai.com/">CRM</a> · <a href="https://flow.recruitx-ai.com/">RecruitFlow</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐞 DevTracker
+
+AI-assisted QA management platform for bug tracking, developer assignments, issue prioritization and AI-generated development prompts.
+
+**Tech:** React, Node.js, Express, Supabase
+
+<a href="https://devtracker.lumoslogic.com/">🌐 Explore Project</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 DocuFlow AI
+
+AI-powered professional document generation with branding customization, e-signatures, document locking and AI-assisted editing.
+
+**Tech:** React, Python, Convex, Cloudinary
+
+<a href="https://aidocs.lumoslogic.com/">🌐 Explore Project</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= GITHUB ANALYTICS ================= -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DHRUV-SHERE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUV-SHERE&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DHRUV-SHERE&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ================= CONTRIBUTIONS ================= -->
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DHRUV-SHERE/DHRUV-SHERE/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+
+</div>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, exploring new technologies and collaborating on innovative software projects.
+
+<div align="center">
+
+<a href="https://portfolio-dhruvshere.vercel.app/">Portfolio</a> •
+<a href="https://linkedin.com/in/dhruv-shere">LinkedIn</a> •
+<a href="https://github.com/DHRUV-SHERE">GitHub</a> •
+<a href="mailto:sheredhruv@gmail.com">Email</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=DHRUV-SHERE&label=Profile%20Views&color=A7F515&style=flat-square" />
+
+<br/><br/>
+
+**"Building today what tomorrow will depend on."** 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:211951,50:4F46E5,100:A7F515&height=100&section=footer" width="100%" />
+
+</div>
